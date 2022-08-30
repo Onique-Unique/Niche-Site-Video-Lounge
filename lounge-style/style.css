@@ -315,6 +315,7 @@ button {
     max-height: 350px;
     list-style: none;
     overflow-y: scroll;
+    display: none;
 }
 
 /**
@@ -375,6 +376,7 @@ button {
     text-transform: uppercase;
     letter-spacing: 0.8px;
     font-weight: var(--weight-600);
+    opacity: 0;
 }
 
 .sidebar-close-btn {
